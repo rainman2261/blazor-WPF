@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "nexus.plugins.media/1.0.0": {
+        "runtime": {
+          "nexus.plugins.media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nexus.plugins.media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
