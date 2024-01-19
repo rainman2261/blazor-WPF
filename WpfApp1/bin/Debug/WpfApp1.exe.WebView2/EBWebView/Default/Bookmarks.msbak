@@ -1,0 +1,79 @@
+{
+   "checksum": "47702562e1ca13fe696d32fa32645d0b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13350001672938877",
+            "date_last_used": "0",
+            "guid": "1ed01c14-331a-40e7-9679-c9a7c391b400",
+            "id": "10",
+            "name": "Utomik Games",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.utomik.com/hp_edgefavourites"
+         }, {
+            "date_added": "13350001672938807",
+            "date_last_used": "0",
+            "guid": "2b1a69e5-752c-417f-8559-96ae4a653148",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13350001672938744",
+            "date_last_used": "0",
+            "guid": "df784a87-6600-44fc-ac70-0bbd2f6f3e65",
+            "id": "8",
+            "name": "Amazon.com – Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=amazon&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13350001672938580",
+            "date_last_used": "0",
+            "guid": "8c3670f7-db0c-425a-bea3-2d982d44c5ed",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13350001672796730",
+         "date_last_used": "0",
+         "date_modified": "13350001672938877",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13350001672796738",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13350001672796740",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
